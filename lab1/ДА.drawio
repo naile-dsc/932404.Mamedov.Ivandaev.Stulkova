@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="ffr0HMr6F5P7GR0QK_kt">
-    <mxGraphModel dx="1199" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,8 +35,8 @@
         <mxCell id="yME_dzGQV7lhq1hyfo7t-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" value=":КонтроллерПополнения" vertex="1">
           <mxGeometry height="30" width="116" x="436" y="345" as="geometry" />
         </mxCell>
-        <mxCell id="yME_dzGQV7lhq1hyfo7t-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="счет: Счет" vertex="1">
-          <mxGeometry height="30" width="60" x="680" y="345" as="geometry" />
+        <mxCell id="yME_dzGQV7lhq1hyfo7t-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="счет: БанковскийСчёт" vertex="1">
+          <mxGeometry height="30" width="140" x="640" y="345" as="geometry" />
         </mxCell>
         <mxCell id="yME_dzGQV7lhq1hyfo7t-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=":ЭкранУспеха" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="750" as="geometry" />
