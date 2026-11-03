@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="ffr0HMr6F5P7GR0QK_kt">
-    <mxGraphModel dx="1037" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="746" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="yME_dzGQV7lhq1hyfo7t-2" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;direction=east;" value="" vertex="1">
           <mxGeometry height="80" width="100" x="223" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="HrAdqBRBVRgzjEXWlQyL-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;" target="yME_dzGQV7lhq1hyfo7t-4">
-          <mxGeometry relative="1" x="0.061" as="geometry">
+        <mxCell id="HrAdqBRBVRgzjEXWlQyL-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;entryX=0.839;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="yME_dzGQV7lhq1hyfo7t-4">
+          <mxGeometry relative="1" x="0.0081" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="200" />
-              <mxPoint x="521.2" y="200" />
+              <mxPoint x="521.1" y="200" />
             </Array>
             <mxPoint x="491" y="266.7982022324094" as="sourcePoint" />
             <mxPoint x="548.1600000000001" y="278.94000000000005" as="targetPoint" />
