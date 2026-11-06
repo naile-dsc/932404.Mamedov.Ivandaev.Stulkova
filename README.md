@@ -1,16 +1,5 @@
 <table width="100%">
   <tr>
-      <td width="33.33%" align="center">
-      <img src="roflimages/a0.jpg" width="100%">
-    </td>
-    <td width="33.33%" align="center">
-      <img src="roflimages/n0.jpg" width="100%">
-    </td>
-    <td width="33.33%" align="center">
-      <img src="roflimages/m0.jpg" width="100%">
-    </td>
-  </tr>
-  <tr>
     <td width="33.33%" align="center">
       <img src="roflimages/a1.jpg" width="100%">
     </td>
@@ -19,7 +8,7 @@
     </td>
     <td width="33.33%" align="center">
       <img src="roflimages/m1.jpg" width="100%">
-    </td>  
+    </td>
   </tr>
   <tr>
     <td width="33.33%" align="center">
