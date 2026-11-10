@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="VkR1qphw_isgi_mzUcow" name="Страница-2">
+    <mxGraphModel dx="1194" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame_sber" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=180;height=30;fontStyle=1;fontSize=14;" value="Сбербанк Онлайн (Web)" vertex="1">
+          <mxGeometry height="340" width="460" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_sber" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" value="Клиент" vertex="1">
+          <mxGeometry height="80" width="40" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_sber_1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Посмотреть баланс счетов" vertex="1">
+          <mxGeometry height="50" width="160" x="260" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_sber_2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Перевести клиенту банка" vertex="1">
+          <mxGeometry height="50" width="160" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_sber_3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Оплатить услуги ЖКХ" vertex="1">
+          <mxGeometry height="50" width="160" x="260" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_sber_4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Открыть вклад" vertex="1">
+          <mxGeometry height="50" width="160" x="260" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="link_s_1" edge="1" parent="1" source="actor_sber" style="endArrow=none;html=1;rounded=0;" target="uc_sber_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_s_2" edge="1" parent="1" source="actor_sber" style="endArrow=none;html=1;rounded=0;" target="uc_sber_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_s_3" edge="1" parent="1" source="actor_sber" style="endArrow=none;html=1;rounded=0;" target="uc_sber_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_s_4" edge="1" parent="1" source="actor_sber" style="endArrow=none;html=1;rounded=0;" target="uc_sber_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frame_tbank" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=30;fontStyle=1;fontSize=14;" value="Мобильное приложение Т-Банк" vertex="1">
+          <mxGeometry height="340" width="460" x="540" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_tbank" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" value="Клиент" vertex="1">
+          <mxGeometry height="80" width="40" x="580" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_t_1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Перевести по СБП" vertex="1">
+          <mxGeometry height="50" width="160" x="760" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_t_2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Оплатить мобильную связь" vertex="1">
+          <mxGeometry height="50" width="160" x="760" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_t_3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Заказать новую карту" vertex="1">
+          <mxGeometry height="50" width="160" x="760" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uc_t_4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Посмотреть историю операций" vertex="1">
+          <mxGeometry height="50" width="160" x="760" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="link_t_1" edge="1" parent="1" source="actor_tbank" style="endArrow=none;html=1;rounded=0;" target="uc_t_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_t_2" edge="1" parent="1" source="actor_tbank" style="endArrow=none;html=1;rounded=0;" target="uc_t_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_t_3" edge="1" parent="1" source="actor_tbank" style="endArrow=none;html=1;rounded=0;" target="uc_t_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="link_t_4" edge="1" parent="1" source="actor_tbank" style="endArrow=none;html=1;rounded=0;" target="uc_t_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
